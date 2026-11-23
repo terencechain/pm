@@ -3,10 +3,20 @@
 This table is automatically updated based on issues in the ethereum/pm repo.
 A breakout is considered "active" if it has a meeting date within the past 3 months.
 
-*Last updated: 2026-11-16 16:54 UTC (updated weekly)*
+*Last updated: 2026-11-23 19:08 UTC (updated weekly)*
 
 | Call Series | Facilitator | Latest | Issue |
 |-------------|-------------|--------|-------|
+| EIP Editing Office Hour | [@poojaranjan](https://github.com/poojaranjan) | 2026-11-24 | [Link](https://github.com/ethereum/pm/issues/2307) |
+| EIPIP Meeting | [@poojaranjan](https://github.com/poojaranjan) | 2026-11-18 | [Link](https://github.com/ethereum/pm/issues/2288) |
+| Encrypt the Mempool | [@jflo](https://github.com/jflo) | 2026-11-11 | [Link](https://github.com/ethereum/pm/issues/2300) |
+| FOCIL Breakout | [@jihoonsong](https://github.com/jihoonsong) | 2026-11-24 | [Link](https://github.com/ethereum/pm/issues/2308) |
+| Frame Transaction Breakout | [@wolovim](https://github.com/wolovim) | 2026-11-17 | [Link](https://github.com/ethereum/pm/issues/2295) |
+| L1-zkEVM Breakout | [@jsign](https://github.com/jsign) | 2026-10-14 | [Link](https://github.com/ethereum/pm/issues/2269) |
+| P2P Networking | [@kamilsa](https://github.com/kamilsa) | 2026-11-18 | [Link](https://github.com/ethereum/pm/issues/2302) |
+| PQ Transaction Signatures | [@asanso](https://github.com/asanso) | 2026-11-25 | [Link](https://github.com/ethereum/pm/issues/2312) |
+| RPC Standards | [@bomanaps](https://github.com/bomanaps) | 2026-11-16 | [Link](https://github.com/ethereum/pm/issues/2301) |
+| SSZ Engine API | [@RazorClient](https://github.com/RazorClient) | 2026-08-28 | [Link](https://github.com/ethereum/pm/issues/2196) |
 
 
 
